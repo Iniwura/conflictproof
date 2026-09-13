@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "title": "Emergency transfer timing conflict",
+  "subject": "Treasury transfer TX-104",
+  "conflict_claim": "Rule A requires immediate execution while Rule B requires a 24-hour delay for the same transfer.",
+  "rule_a": {
+    "statement": "Emergency security transfers must execute immediately.",
+    "label": "Emergency operations rule",
+    "source_url": "https://example.com/rule-a.txt"
+  },
+  "rule_b": {
+    "statement": "Transfers above the applicable threshold must wait 24 hours before execution.",
+    "label": "Treasury delay rule",
+    "source_url": "https://example.com/rule-b.txt"
+  }
+}

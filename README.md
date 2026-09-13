@@ -72,11 +72,11 @@ Evidence roles are `RULE_A` and `RULE_B`.
 
 GenLayer Studio Dev deployment:
 
-`0x565f93Fa51439673B7357af048D431F51BE03F38`
+`0xb7206C18a35E00f8fb175B718C31c51Dc37EafD9`
 
 Explorer:
 
-https://explorer-studio-dev.genlayer.com/address/0x565f93Fa51439673B7357af048D431F51BE03F38
+https://explorer-studio-dev.genlayer.com/address/0xb7206C18a35E00f8fb175B718C31c51Dc37EafD9
 
 ## Runtime
 
